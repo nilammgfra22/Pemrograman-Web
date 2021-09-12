@@ -1,0 +1,21 @@
+/* .jumbotron {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  background-color: rgb(243, 217, 178);
+} */
+
+#Projects {
+  background-color: rgb(243, 217, 178);
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.banner {
+  background: url("img/background.jpg") no-repeat center;
+  background-size: cover;
+  padding-top: 25%;
+  padding-bottom: 25%;
+  background-position: 30%;
+}
